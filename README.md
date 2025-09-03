@@ -1,6 +1,6 @@
 
   <h1>Credit Card Transaction Analysis: Spending Trends and Fraud Detection 💳</h1>
-  <img src="#" alt="Credit Card Transaction Analysis Dashboard">
+  <img src="https://github.com/apex-analytics-solutions/Credit-Card-Transaction-Analysis-By-Excel/blob/main/Credit%20Card%20Transaction%20Analysis.png" alt="Credit Card Transaction Analysis Dashboard">
 
   <p>In this project, I transformed raw credit card transaction data into deep, actionable insights. By building an interactive dashboard, I not only analyzed spending behaviors but also identified potentially fraudulent activities.</p>
 
